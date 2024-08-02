@@ -279,12 +279,9 @@ elif page == "About":
         Boost your learning efficiency with this intelligent tool that brings precision and speed to video analysis. Perfect for students, educators, and anyone eager to enhance their knowledge with the best available content on YouTube.
 
         ### Author:
-        - [VIGNESHWARAN](vign22112.it@rmkec.ac.in)
         - [THARUN KARTHICK](karthicktharun11@gmail.com)
-
-        ### Contact:
-        - [LinkedIn](https://www.linkedin.com/in/vigneshwaranit)
-        - [GitHub](https://github.com/RMKEC111722203119?tab=repositories)
+        - [VIGNESHWARAN](vign22112.it@rmkec.ac.in)
+              
 
        
         """
