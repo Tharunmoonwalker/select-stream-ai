@@ -1,6 +1,4 @@
-Sure, here's the updated README with a Table of Contents:
-
----
+ ---
 
 # Select-Stream-AI 🎥
 
