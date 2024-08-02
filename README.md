@@ -51,7 +51,7 @@ Select-Stream-AI is an innovative tool designed to help users find the most info
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/select-stream-ai.git
+    git clone https://github.com/Tharunmoonwalker/select-stream-ai.git
     cd select-stream-ai
     ```
 
