@@ -17,9 +17,9 @@ import os
 
 nest_asyncio.apply()
 
-API_KEY = "AIzaSyASpU0qAf8xcDgZ6Wqdw-Ts8WJftF0cDFU"
-GROQ_API_KEY = "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"
-HUGGINGFACEHUB_API_TOKEN = "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"
+API_KEY = ""
+GROQ_API_KEY = ""
+HUGGINGFACEHUB_API_TOKEN = ""
 
 def ytsearch(search_query):
     youtube = build('youtube', 'v3', developerKey=API_KEY)
